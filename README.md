@@ -3,6 +3,8 @@
 
 ---
 
+> 简单说明：http://t.csdnimg.cn/FbIi7
+
 微信或QQ打开咸鱼之王小程序，进入答题界面，运行**main.py**。期间不要动鼠标。
 
 ![1734b5bf503cae88e9f7799b2c28bf08](https://github.com/1061700625/xyzw_quiz/assets/31002981/85380415-8aaa-4d4f-b55e-b4757949bc1d)
